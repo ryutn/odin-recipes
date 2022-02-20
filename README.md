@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first "real" project using HTML. The goal for this project is to make a website for an undecided recipe. I know im not going to be able to do this without looking at past resources and cheat sheets to help me remember certain things but hopefully this will help me retain more information on how to code.
