@@ -1,0 +1,18 @@
+.title, .jump  {
+    color: white;
+    background-color: black;
+    font-size: 150px;
+    text-align: center;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.jump {
+    font-size: 100px;
+    color: rgb(185, 94, 19);
+}
+
+#gordon {
+    height: 500px;
+    width: 3000px;
+    
+}
